@@ -1,4 +1,4 @@
-# myCareerX Adoption Dashboard: Talent Profile & Career Conversation Analytics
+#Talent Profile Adoption Dashboard: Talent Profile & Career Conversation Analytics
 
 > **Confidentiality note:** This project was built during my time at PETRONAS. All company data has been removed or replaced with anonymised sample data, and screenshots have been redacted. No real employee information, internal figures or system links are included in this repository.
 
@@ -64,6 +64,12 @@ Tables are joined on employee number, with one-to-one and one-to-many relationsh
 - **SQL:** Data extraction
 - **Python and R:** Data cleaning and transformation
 
+## Dashboard 
+![Talent Profile – Executive & Above](images/talent_profile_exec.png)
+![Talent Profile – GM & Above](images/talent_profile_gm.png)
+![Career Conversation](images/career_conversation.png)
+![Data Model](images/data_model.png)
+
 ## Repository Contents
 
 ```
@@ -75,12 +81,6 @@ Tables are joined on employee number, with one-to-one and one-to-many relationsh
     ├── career_conversation.png
     └── data_model.png
 ```
-
-## How to View
-
-1. Download and install [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free).
-2. Open `myCx_Adoption_Sample.pbix`.
-3. Use the slicers on the left of each page to filter by business, division or role level.
 
 ---
 
